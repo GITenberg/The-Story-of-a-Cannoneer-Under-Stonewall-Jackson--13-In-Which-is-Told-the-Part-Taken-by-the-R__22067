@@ -1,0 +1,36 @@
+_repo: The-Story-of-a-Cannoneer-Under-Stonewall-Jackson--13-In-Which-is-Told-the-Part-Taken-by-the-R__22067
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moore, Edward Alexander
+    alias: Moore, Edward A. (Edward Alexander)
+    birthdate: 1842
+    gutenberg_agent_id: '25073'
+    url: http://www.gutenberg.org/2009/agents/25073
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2007-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22067'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcsh 'Moore, Edward Alexander, 1842-'
+- !lcsh 'Soldiers -- Virginia -- Biography'
+- !lcsh 'Confederate States of America. Army. Virginia Artillery. Rockbridge Battery,
+  1st'
+- !lcc 'E456'
+- !lcsh 'Virginia -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcsh 'Jackson, Stonewall, 1824-1863'
+title: "The Story of a Cannoneer Under Stonewall Jackson\r\nIn Which is Told the Part\
+  \ Taken by the Rockbridge Artillery in the Army of Northern Virginia"
+url: http://www.gutenberg.org/ebooks/22067
