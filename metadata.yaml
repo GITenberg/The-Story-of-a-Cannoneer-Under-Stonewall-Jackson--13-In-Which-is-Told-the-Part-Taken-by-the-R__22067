@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25073'
     url: http://www.gutenberg.org/2009/agents/25073
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22067#The-Story-of-a-Cannoneer-Under-Stonewall-Jackson--13-In-Which-is-Told-the-Part-Taken-by-the-R_
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2007-07-13'
 gutenberg_type: Text
